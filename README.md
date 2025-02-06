@@ -2,13 +2,11 @@
 AnimateAI is a full-stack web application that enables users to generate cartoon images using AI-based image generation services. The application allows users to either describe an image in text form or upload their own images for transformation into stunning cartoon visuals.
 
 TECH STACK
+
 Frontend:
--Framework: React with TypeScript
 
--Styling: CSS
-
+-Framework: React with TypeScript                                                                                                                                                                                    -Styling: CSS
 -State Management: React Hooks
-
 -Routing: React Router
 
 Backend:
