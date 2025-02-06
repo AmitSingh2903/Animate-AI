@@ -45,10 +45,13 @@ FUTURE ENHANCEMENTS
 
 RESULT:
 
+Sign-In Page
 ![Sign-In Page](https://github.com/user-attachments/assets/76fe125e-d257-49f1-8572-33acf1a5dc94)
 
+Home Page
 ![Home Page](https://github.com/user-attachments/assets/3b6d6134-b6ae-412d-b4c8-7c391ded4bfe)
 
+Image Generation
 ![Image Generation](https://github.com/user-attachments/assets/e5c8b630-c2f7-42c3-90e5-9ce63d1aa091)
 
 
