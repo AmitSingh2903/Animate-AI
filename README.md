@@ -4,9 +4,13 @@ AnimateAI is a full-stack web application that enables users to generate cartoon
 TECH STACK
 Frontend:
 -Framework: React with TypeScript
+
 -Styling: CSS
+
 -State Management: React Hooks
+
 -Routing: React Router
+
 Backend:
 -Database: Supabase (SQL-based backend)
 -Authentication: Supabase Auth
