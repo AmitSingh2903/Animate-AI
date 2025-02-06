@@ -24,6 +24,7 @@ Backend:
 -API Handling: Supabase functions & RESTful API calls
 
 FEATURES
+
 -Text-to-Image AI Generation: Users can input a text prompt to generate a cartoon image.
 
 -Image Upload for Cartoonization: Users can upload an existing image for AI-based transformation.
@@ -34,9 +35,10 @@ FEATURES
 
 -Authentication (Optional): If implemented, users can create accounts and save their generated images.
 
-
-
 FUTURE ENHANCEMENTS 
+
 -Improve AI-generated image quality using advanced models.
+
 -Add user authentication for saving images.
+
 -Implement a gallery feature to browse previously generated images.
